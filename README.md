@@ -4,8 +4,12 @@ After registration, you will get full access to the program and can start search
 We are also planning to launch a forum for participants, where you can share your findings and experiences, as well as get advice from other testers. This is a great opportunity to exchange knowledge and expand your social circle in the world of cryptocurrency!
 Successful profits and good luck in your search! May your efforts bring you the desired results!
 
+---
+
 ### 🎀 Preview
 ![image](https://github.com/user-attachments/assets/64ccc50b-b326-45f3-83a5-96eeba16b6a7)
+
+---
 
 ### 💞 Donate
 If you were able to generate a valuable wallet - we would appreciate your support ☺️
