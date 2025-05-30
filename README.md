@@ -12,6 +12,8 @@ Successful profits and good luck in your search! May your efforts bring you the 
 ---
 
 ### 💞 Donate
-If you were able to generate a valuable wallet - we would appreciate your support ☺️\n
-**BTC:** bc1qlp8dendskt7nalath25zh0syfl23g0sfn6xv2x\n
+If you were able to generate a valuable wallet - we would appreciate your support ☺️
+
+**BTC:** bc1qlp8dendskt7nalath25zh0syfl23g0sfn6xv2x
+
 **ETH:** 0x87158D2aBcD2c74AA67A185F88E291BB02184d6E
